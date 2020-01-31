@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅༅། །བཤེས་སྤྲིང་གི་མཆན་འགྲེལ་ཤེར་འགྲེལ་རྣམ་གཉིས་རྒྱུད་བླའི་སྤྱི་དོན་མཆོག་གསུམ་རྣམ་བཞག་ཐེག་དགུའི་རྣམ་བཞག་བཅས།
+  authors:
+  - མཛད་པ་པོ། ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  sku: SHE-SG-10
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: Commentaries to Nagarjuna’s Letter to a Friend, the Bodhicharyavatara, and
+      the Three Jewels
+    bo: བཤེས་སྤྲིང་ཤེར་འགྲེལ་དང་མཆོག་གསུམ་རྣམ་བཞག།༼ཐ༽
+  collection:
+    en: Shechen Gyaltsab Series–  Book 10
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་གསུང་འབུམ།–  དེབ། ༡༠
+  author:
+    en: Shechen Gyaltsap Gyurme Pema Namgyal
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-SG-10
+  category:
+    en: Uncategorized
+    bo: སྡེ་ཚན་མེད་པ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-SG-10.epub
+  description:
+    en: ''
+    bo: ''
