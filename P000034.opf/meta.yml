@@ -1,8 +1,9 @@
-ebook_metadata:
+id: P000034
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅༅། །བཤེས་སྤྲིང་གི་མཆན་འགྲེལ་ཤེར་འགྲེལ་རྣམ་གཉིས་རྒྱུད་བླའི་སྤྱི་དོན་མཆོག་གསུམ་རྣམ་བཞག་ཐེག་དགུའི་རྣམ་བཞག་བཅས།
   authors:
   - མཛད་པ་པོ། ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
-  sku: SHE-SG-10
   layers:
   - book_title
   - author
@@ -10,6 +11,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: SHE-SG-10
 web_metadata:
   title:
     en: Commentaries to Nagarjuna’s Letter to a Friend, the Bodhicharyavatara, and
